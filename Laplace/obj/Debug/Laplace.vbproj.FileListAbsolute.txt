@@ -1,0 +1,10 @@
+D:\prog\Laplace\Laplace\bin\Debug\Laplace.exe
+D:\prog\Laplace\Laplace\bin\Debug\Laplace.pdb
+D:\prog\Laplace\Laplace\bin\Debug\Laplace.xml
+D:\prog\Laplace\Laplace\obj\Debug\ResolveAssemblyReference.cache
+D:\prog\Laplace\Laplace\obj\Debug\WindowsApplication1.Form1.resources
+D:\prog\Laplace\Laplace\obj\Debug\WindowsApplication1.Resources.resources
+D:\prog\Laplace\Laplace\obj\Debug\Laplace.vbproj.GenerateResource.Cache
+D:\prog\Laplace\Laplace\obj\Debug\Laplace.exe
+D:\prog\Laplace\Laplace\obj\Debug\Laplace.xml
+D:\prog\Laplace\Laplace\obj\Debug\Laplace.pdb
